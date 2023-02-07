@@ -1,0 +1,7 @@
+
+
+Added redux store, subscriber, dispatch function which handles increment and decrement
+
+
+
+
